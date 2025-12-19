@@ -242,13 +242,19 @@ export const IphonePlus = () => {
       <div className="absolute top-[26px] left-[30px] [font-family:'Holtwood_One_SC-Regular',Helvetica] font-normal text-white text-xl tracking-[0] leading-[normal]">
         EVENT REGISTRATION FORUM
       </div>
+
+      <div className="absolute top-[845px] left-6 w-[381px] h-[57px] bg-[#2cff92]" />
+
+      <div className="absolute top-[845px] left-5 [font-family:'Homemade_Apple-Regular',Helvetica] font-normal text-black text-3xl tracking-[0] leading-[normal]">
+        lakshita rai.V (25005431)
+      </div>
     </div>
   );
 };
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-12-19 191442-1.png>)
+![alt text](<Screenshot 2025-12-19 193259.png>)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration using Figma UI tool is completed successfully.
